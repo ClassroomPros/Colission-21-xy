@@ -1,1 +1,2 @@
-# Colission-21-xy
+# collisionAlgorithm
+Algorithm to detect collision between two objects
